@@ -1,0 +1,11 @@
+2025-06-28 10:13:16,556 - ecommerce_analysis_service - INFO - MongoDB连接成功
+2025-06-28 10:15:37,518 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.nike.com.cn/, 类型 combined
+2025-06-28 10:15:39,565 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.nike.com.cn/, 类型 combined
+2025-06-28 10:15:39,566 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.adidas.com.cn/, 类型 combined
+2025-06-28 10:15:39,566 - ecommerce_analysis_service - ERROR - 批量查询任务出错: 用户 user_123, URL https://www.nike.com.cn/, 错误: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-06-28 10:15:39,568 - ecommerce_analysis_service - ERROR - 批量查询任务出错: 用户 user_123, URL https://www.adidas.com.cn/, 错误: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-06-28 10:33:47,519 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.nike.com.cn/, 类型 combined
+2025-06-28 10:33:49,550 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.nike.com.cn/, 类型 combined
+2025-06-28 10:33:49,550 - ecommerce_analysis_service - INFO - 查询任务: 用户 user_123, URL https://www.adidas.com.cn/, 类型 combined
+2025-06-28 10:33:49,550 - ecommerce_analysis_service - ERROR - 批量查询任务出错: 用户 user_123, URL https://www.nike.com.cn/, 错误: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-06-28 10:33:49,550 - ecommerce_analysis_service - ERROR - 批量查询任务出错: 用户 user_123, URL https://www.adidas.com.cn/, 错误: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
