@@ -1,0 +1,26 @@
+# 通用忽略项
+.DS_Store
+Thumbs.db
+*.log
+
+# Python 特定忽略项
+venv/
+env/
+.venv/
+pip-delete-this-directory.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist-info/
+
+# 版本控制
+.git/
+.gitignore
+
+# 编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo
